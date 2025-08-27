@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adit  
 
-💻 Informatics Engineering Student  
+💻 Informatics Engineering Student 
 🚀 Passionate in Web Development & Backend  
 🎮 Loves vibescoding, coffee, and sometimes gaming  
 
