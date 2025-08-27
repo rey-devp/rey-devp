@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Adit  
 
-<!--
-**rey-devp/rey-devp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Informatics Engineering Student  
+🚀 Passionate in Web Development & Backend  
+🎮 Loves vibescoding, coffee, and sometimes gaming  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+
+![Adit's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAMEKAMU&theme=tokyonight)  
+
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend** : JavaScript | HTML | CSS | Tailwind CSS  
+- **Framework** : Fiber | React 
+- **Backend** : Golang  
+- **Database** : MongoDB | MySQL  
+
+---
+
+## 🤝 Connect With Me  
+
+- 📧 Email: [rey.devp@gmail.com](mailto:rey.devp@gmail.com)  
+- 📷 Instagram: [@r.aditya0](https://www.instagram.com/r.aditya0?igsh=MTNhYW1pcWgzeXJ4ZQ==)  
+- 🎮 Discord: rereiizzz | 584975016341274645  
+
