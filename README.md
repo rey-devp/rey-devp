@@ -8,9 +8,9 @@
 
 ## 📊 GitHub Stats  
 
-![Adit's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAMEKAMU&theme=tokyonight)  
+![Adit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rey-devp&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rey-devp&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rey-devp&theme=tokyonight)  
 
 ---
 
