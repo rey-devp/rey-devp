@@ -13,6 +13,12 @@
 
 ---
 
+## 🔥 Total All Commits
+
+![Total All Commits](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
+---
+
 ## 🛠️ Tech Stack  
 
 - **Frontend** : JavaScript | HTML | CSS | Tailwind CSS  
