@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Adit  
 
-💻 Informatics Engineering Student 
+💻 Informatics Engineering Student in ULBI
 🚀 Passionate in Web Development & Backend  
-🎮 Loves vibescoding, coffee, and sometimes gaming  
+🎮 Loves coding, coffee, and gaming  
 
 ---
 
